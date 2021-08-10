@@ -15,6 +15,8 @@ invoked via an [API](#api-usage).
 
 ## Matching swift-format to Your Swift Version
 
+选择你使用的 Swift 版本的 `swift-format`。
+
 `swift-format` depends on [SwiftSyntax](https://github.com/apple/swift-syntax)
 and the standalone parsing library that is distributed as part of the Swift
 toolchain. The SwiftSyntax version in use must match the toolchain version, so
